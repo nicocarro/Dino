@@ -1,4 +1,4 @@
-# dino
+# Dino
 A recreation of the mythical google game
 
 
